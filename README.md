@@ -1,6 +1,6 @@
 ### KIM SE JIN 👋
 
-
+## :file_folder:[portfolio](https://stirring-seashore-cf7.notion.site/Backend-01e7a4e85713406ab72ed8e02442188c)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsezin&layout=compact&hide_border=true)](https://github.com/kimsezin)        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsezin&show_icons=true&theme=radical)
